@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle tree-view-ng",
+        "command": "tree-view-ng:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "tree-view-ng",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "tree-view-ng:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

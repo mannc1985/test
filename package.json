@@ -1,0 +1,18 @@
+{
+  "name": "tree-view-ng",
+  "main": "./lib/tree-view-ng",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "tree-view-ng:toggle"
+  },
+  "repository": "https://github.com/atom/tree-view-ng",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
